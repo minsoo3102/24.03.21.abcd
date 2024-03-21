@@ -7,3 +7,4 @@ print(result)
 ----
 square = lambda x , y : x**y
 print(square(13,2))
+----
